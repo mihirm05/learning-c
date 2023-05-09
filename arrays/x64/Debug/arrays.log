@@ -1,0 +1,3 @@
+﻿  arrays.c
+D:\c\arrays\arrays.c(18,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  arrays.vcxproj -> D:\c\arrays\x64\Debug\arrays.exe
