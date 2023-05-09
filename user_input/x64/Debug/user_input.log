@@ -1,0 +1,6 @@
+﻿  user_input.c
+D:\c\user_input\user_input.c(11,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+D:\c\user_input\user_input.c(11,10): message : this argument is used as a buffer size
+D:\c\user_input\user_input.c(14,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+D:\c\user_input\user_input.c(14,10): message : this argument is used as a buffer size
+  user_input.vcxproj -> D:\c\user_input\x64\Debug\user_input.exe
