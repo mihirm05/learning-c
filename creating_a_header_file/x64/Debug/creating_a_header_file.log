@@ -1,0 +1,4 @@
+﻿  header_file.c
+D:\c\creating_a_header_file\header_file.c(6,1): warning C4005: 'MYNAME': macro redefinition
+D:\c\creating_a_header_file\header_file.h(2,1): message : see previous definition of 'MYNAME'
+  creating_a_header_file.vcxproj -> D:\c\creating_a_header_file\x64\Debug\creating_a_header_file.exe
