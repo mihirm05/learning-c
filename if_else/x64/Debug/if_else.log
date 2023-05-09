@@ -1,0 +1,6 @@
+﻿  if_else.c
+D:\c\if_else\if_else.c(13,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\c\if_else\if_else.c(13,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\c\if_else\if_else.c(13,10): message : the missing variadic argument 2 is required by format string '%c'
+D:\c\if_else\if_else.c(13,10): message : this argument is used as a buffer size
+  if_else.vcxproj -> D:\c\if_else\x64\Debug\if_else.exe
