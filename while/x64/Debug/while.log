@@ -1,0 +1,3 @@
+﻿  while.c
+D:\c\learning-c\while\while.c(15,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  while.vcxproj -> D:\c\learning-c\while\x64\Debug\while.exe
