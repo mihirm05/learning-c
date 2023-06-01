@@ -1,0 +1,8 @@
+﻿  more_math_functions.c
+D:\c\learning-c\more_math_functions\more_math_functions.c(18,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\c\learning-c\more_math_functions\more_math_functions.c(29,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\c\learning-c\more_math_functions\more_math_functions.c(44,9): warning C4473: 'printf' : not enough arguments passed for format string
+D:\c\learning-c\more_math_functions\more_math_functions.c(44,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+D:\c\learning-c\more_math_functions\more_math_functions.c(44,9): message : the missing variadic argument 1 is required by format string '%d'
+D:\c\learning-c\more_math_functions\more_math_functions.c(34,6): warning C4101: 'random_number': unreferenced local variable
+  more_math_functions.vcxproj -> D:\c\learning-c\more_math_functions\x64\Debug\more_math_functions.exe
