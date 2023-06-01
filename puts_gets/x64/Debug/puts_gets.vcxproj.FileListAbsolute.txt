@@ -1,0 +1,1 @@
+D:\c\learning-c\puts_gets\x64\Debug\puts_gets.exe

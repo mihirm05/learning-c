@@ -1,0 +1,3 @@
+﻿  puts_gets.c
+D:\c\learning-c\puts_gets\puts_gets.c(16,2): warning C4013: 'gets' undefined; assuming extern returning int
+  puts_gets.vcxproj -> D:\c\learning-c\puts_gets\x64\Debug\puts_gets.exe
