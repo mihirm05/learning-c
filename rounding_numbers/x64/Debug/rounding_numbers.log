@@ -1,0 +1,4 @@
+﻿  rounding_numbers.c
+D:\c\learning-c\rounding_numbers\rounding_numbers.c(9,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\c\learning-c\rounding_numbers\rounding_numbers.c(10,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  rounding_numbers.vcxproj -> D:\c\learning-c\rounding_numbers\x64\Debug\rounding_numbers.exe
