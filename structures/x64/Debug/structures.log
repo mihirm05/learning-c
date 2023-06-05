@@ -1,0 +1,3 @@
+﻿  structures.c
+D:\c\learning-c\structures\structures.c(16,2): warning C4013: 'gets' undefined; assuming extern returning int
+  structures.vcxproj -> D:\c\learning-c\structures\x64\Debug\structures.exe
