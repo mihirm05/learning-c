@@ -1,0 +1,1 @@
+D:\c\learning-c\fgets\x64\Debug\fgets.exe
