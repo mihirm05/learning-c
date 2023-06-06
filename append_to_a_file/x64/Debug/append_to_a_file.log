@@ -1,0 +1,3 @@
+﻿  append_to_a_file.c
+D:\c\learning-c\append_to_a_file\append_to_a_file.c(7,10): warning C4101: 'error_code': unreferenced local variable
+  append_to_a_file.vcxproj -> D:\c\learning-c\append_to_a_file\x64\Debug\append_to_a_file.exe
